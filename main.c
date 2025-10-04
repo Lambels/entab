@@ -100,5 +100,5 @@ int main(int argc, char *argv[]) {
 
 void usage(char *ctx) {
   printf("%s", ctx);
-  printf("Usage: entab {-e|-d} [-h] [-t tab] [-o file] {-f file | text}\n");
+  printf("Usage: dentab {-e|-d} [-h] [-t tab] [-o file] {-f file | text}\n");
 }
